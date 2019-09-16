@@ -1,0 +1,18 @@
+div{text-align: center;
+}
+.entete{
+    background-color: #33C4FF;
+    height: 50px;
+    width: 600px;
+
+}
+.corps{
+    background-color: #FF8D33;
+    height: 300px;
+    width: 600px;
+}
+.footer{
+    background-color:#9CFF33;
+    height: 50px;
+    width: 600px;
+}
